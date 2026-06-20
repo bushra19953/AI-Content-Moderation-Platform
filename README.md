@@ -2,7 +2,6 @@
 
 This is a full-stack AI-powered Content Moderation Platform featuring a real-time integration with Google's Gemini AI.
 
-## 📸 UI Screenshots
 To see exactly how the platform's premium glassmorphism Light Theme and Dashboard layouts look when running, please view the **`Project_Screenshots.pdf`** file located in the root of this repository!
 
 ## Prerequisites
